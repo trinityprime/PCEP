@@ -1,5 +1,2 @@
-number = int(input("Enter a number: "))
-while (number <= 100):
-    print(True)
-else:
-    print(False)
+n = int(input("Enter an integer: "))
+print(n >= 100)
