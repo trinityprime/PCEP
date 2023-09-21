@@ -10,8 +10,8 @@ for i in range(2):
 
 print(beatles)
 
-del beatles[4]
-del beatles[3]
+del beatles[4], beatles[3]
+
 
 print(beatles)
 

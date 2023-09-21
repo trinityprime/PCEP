@@ -8,5 +8,3 @@ for i in range(0, len(scores)):
             scores[i], scores[j] = scores[j], scores[i]
 
 print("Sorted scores (ascending order):", scores)
-
-
